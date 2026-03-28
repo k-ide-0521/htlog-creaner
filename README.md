@@ -1,2 +1,2 @@
-# htlog-creaner
+# htlog-cleaner
 指定期間を過ぎたログファイルを削除するPowerShellスクリプト
